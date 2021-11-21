@@ -2,7 +2,7 @@
 #### I am Web Developer
 ![I am Web Developer](https://github.com/Taiebkhan735/Taiebkhan735/blob/main/logo.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun.
 
 ## Skills:  JS / HTML / CSS
 
@@ -16,7 +16,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ###### - ⚡ Fun fact: ... 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true&theme=Gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&langs_count=8)](https://github.com/Taiebkhan735/github-readme-stats)
 
