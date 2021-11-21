@@ -9,7 +9,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&langs_count=8)](https://github.com/Taiebkhan735/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&layout=compact)](https://github.com/Taiebkhan735/github-readme-stats)
 
 
 
