@@ -6,6 +6,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735)](https://github.com/Taiebkhan735/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&hide=contribs,prs)
 
 Skills:  JS / HTML / CSS
 
