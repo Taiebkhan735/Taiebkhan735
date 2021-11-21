@@ -1,6 +1,6 @@
 # Hi there 👋, my name is TAIEB
 #### I am Web Developer
-![I am Web Developer](https://github.com/Taiebkhan735/Taiebkhan735/blob/main/logo.png)
+![I am Web Developer]
 
 I made this project just for fun.
 
@@ -15,8 +15,8 @@ I made this project just for fun.
 ###### - 😄 Pronouns: ... 
 ###### - ⚡ Fun fact: ... 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true&theme=Gradient)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true&theme=flag-india)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&langs_count=8)](https://github.com/Taiebkhan735/github-readme-stats)
 
