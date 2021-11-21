@@ -11,9 +11,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&layout=compact)](https://github.com/Taiebkhan735/github-readme-stats)
 
-[![Taieb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taiebkhan735)](https://github.com/Taiebkhan735/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taiebkhan735)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 Skills:  JS / HTML / CSS
