@@ -15,6 +15,11 @@ I made this project just for fun.
 ###### - 😄 Pronouns: ... 
 ###### - ⚡ Fun fact: ... 
 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&theme=Gradient&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&langs_count=8)](https://github.com/Taiebkhan735/github-readme-stats)
