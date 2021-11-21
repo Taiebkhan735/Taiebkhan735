@@ -4,7 +4,6 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735)](https://github.com/Taiebkhan735/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true&theme=radical)
 
