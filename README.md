@@ -7,6 +7,14 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&langs_count=8)](https://github.com/Taiebkhan735/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&layout=compact)](https://github.com/Taiebkhan735/github-readme-stats)
+
+[![Taieb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taiebkhan735)](https://github.com/Taiebkhan735/github-readme-stats)
+
+
+
 Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on none 
