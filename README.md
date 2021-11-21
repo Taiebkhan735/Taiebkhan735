@@ -16,9 +16,9 @@ I made this project just for fun.
 ###### - ⚡ Fun fact: ... 
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/Taiebkhan735/Taiebkhan735/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/Taiebkhan735/Taiebkhan735/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/Taiebkhan735/Taiebkhan735/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  <img src="https://raw.githubusercontent.com/Taiebkhan735/Taiebkhan735/main/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/Taiebkhan735/Taiebkhan735/main/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/Taiebkhan735/Taiebkhan735/main/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&theme=Gradient&show_icons=true)
 
