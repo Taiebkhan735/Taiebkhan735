@@ -1,8 +1,5 @@
 # Hi there 👋, my name is TAIEB
 #### I am Web Developer
-![I am Web Developer]
-
-I made this project just for fun.
 
 ## Languages and Tools:
 
