@@ -15,8 +15,7 @@ I made this project just for fun.
 ###### - 😄 Pronouns: ... 
 ###### - ⚡ Fun fact: ... 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiebkhan735&theme=Gradient&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiebkhan735&langs_count=8)](https://github.com/Taiebkhan735/github-readme-stats)
 
