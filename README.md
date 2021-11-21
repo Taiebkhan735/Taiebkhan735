@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is TAIEB
 #### I am Web Developer
-![I am Web Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-web-banner&psig=AOvVaw0w_gQMfUyejjsqLzQYgTXM&ust=1637576117455000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICCzsqcqfQCFQAAAAAdAAAAABAQ)
+![I am Web Developer](https://png.pngtree.com/thumb_back/fh260/back_pic/02/65/79/475788bc11dc678.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
